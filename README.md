@@ -1,4 +1,4 @@
 # aliatest
 ALIA library carpentry training
 ## heading 2
-_italicise_ day **day** day
+_italicise using underscores_ day **day** day
