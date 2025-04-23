@@ -1,2 +1,2 @@
 # aliatest
-training
+ALIA library carpentry training
